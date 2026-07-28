@@ -1,2 +1,2 @@
-:HL["/kotik-app/_next/static/chunks/14o.fixf684tw.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5NR-m7iME7KRsVVn0Lkek"}
+:HL["/kotik-app/_next/static/chunks/0er-two1sxh-~.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"z-nEcucq6FIE-4SLousQx"}
