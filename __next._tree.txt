@@ -1,4 +1,4 @@
-:HL["/kotik-app/_next/static/chunks/0wbki2xm213a0.css","style"]
+:HL["/kotik-app/_next/static/chunks/0q.m3widvz_tg.css","style"]
 :HL["/kotik-app/_next/static/media/07454f8ad8aaac57-s.p.0tqkxa-w3pk~c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotik-app/_next/static/media/7f11d98043fdedc9-s.p.0r4w1y.tjq0ay.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"QMrl6tNYZgkK1wlfNLL0w"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xFN-8g6bpkxTFetCSaS8U"}
